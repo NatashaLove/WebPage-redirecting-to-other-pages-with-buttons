@@ -1,0 +1,5 @@
+    <h1>Choose a form!</h1>
+    <h3><a href="GetExample.aspx">Get Example</a></h3>
+    <h3><a href="PostExample.aspx">Post Example</a></h3>
+    <h3><a href="SessionExample.aspx">Session Example</a></h3>
+    <h3><a href="CookieExample.aspx">Cookie Example</a></h3>
